@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e43c1f42-9eb6-4cf4-b8cf-fc7fc5bb5b74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/landing.front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/landing.front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing.front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/landing.front/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing.front/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/landing.front/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-todo-date/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-todo-date/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-todo-date/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/react-todo-date/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-react-typescript/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/search-react-typescript/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/landing.front" />
+  </component>
+  <component name="ProjectId" id="1q1VKFHEpDZkwgrHx99G9puI9vy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43c1f42-9eb6-4cf4-b8cf-fc7fc5bb5b74" name="Default Changelist" comment="" />
+      <created>1616247018596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616247018596</updated>
+      <workItem from="1616247020689" duration="8000" />
+      <workItem from="1616247040163" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
